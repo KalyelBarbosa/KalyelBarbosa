@@ -2,10 +2,6 @@
   <img src="./assets/banner.svg" width="100%" alt="Banner de Kalyel Barbosa">
 </p>
 
-<br>
-
----
-
 ## 👨‍💻 Sobre mim
 
 Sou estudante do **2º semestre de Sistemas de Informação**, com grande interesse em tecnologia, automação e melhoria de processos.
@@ -20,21 +16,43 @@ Sou estudante do **2º semestre de Sistemas de Informação**, com grande intere
 
 ## 🧠 Conhecimentos atuais
 
-### 📊 Excel
-Tenho experiência prática com Excel, utilizando planilhas no dia a dia para organização, controle de informações e melhoria de processos.
+<table>
+  <tr>
+    <td align="center" width="160">
+      <b>📊 Excel</b><br>
+      <sub>Experiência prática</sub>
+    </td>
+    <td align="center" width="200">
+      <b>💻 Portugol</b><br>
+      <sub>Fundamentos de lógica</sub>
+    </td>
+  </tr>
+</table>
 
-### 💻 Lógica de Programação
-Tive meu primeiro contato com programação utilizando **Portugol**, desenvolvendo os fundamentos de lógica de programação.
+Tenho experiência prática com **Excel** no ambiente profissional e utilizei **Portugol** durante meus estudos para desenvolver fundamentos de lógica de programação.
 
 ---
 
 ## 📚 Atualmente estudando
 
-🎓 **Sistemas de Informação — 2º semestre**
+<table>
+  <tr>
+    <td align="center" width="140">
+      <b>C</b><br>
+      <sub>Em aprendizado</sub>
+    </td>
+    <td align="center" width="140">
+      <b>C++</b><br>
+      <sub>Em aprendizado</sub>
+    </td>
+    <td align="center" width="180">
+      <b>🌎 Inglês</b><br>
+      <sub>Em desenvolvimento</sub>
+    </td>
+  </tr>
+</table>
 
-💻 **C / C++ — em aprendizado**
-
-🌎 **Inglês — em desenvolvimento**
+🎓 Cursando o **2º semestre de Sistemas de Informação**.
 
 ---
 
