@@ -19,21 +19,19 @@ Estudante do **2º semestre de Sistemas de Informação**, interessado em usar t
 <table>
   <tr>
     <td align="center" width="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="0"/>
-      <b>📊 Excel</b><br>
+      <strong>📊 Excel</strong><br><br>
       <sub>Experiência prática</sub>
     </td>
     <td align="center" width="220">
-      <b>💻 Portugol</b><br>
+      <strong>⌨️ Portugol</strong><br><br>
       <sub>Fundamentos de lógica</sub>
     </td>
   </tr>
 </table>
 
-Uso **Excel** no ambiente profissional para organização, controle e melhoria de processos.  
-Também tive contato com **Portugol**, onde desenvolvi fundamentos de lógica de programação.
+Uso <strong>Excel</strong> no ambiente profissional para organização, controle de informações e melhoria de processos.
 
-Tenho experiência prática com **Excel** no ambiente profissional e utilizei **Portugol** durante meus estudos para desenvolver fundamentos de lógica de programação.
+Tive contato com <strong>Portugol</strong> durante meus estudos, desenvolvendo fundamentos de lógica de programação.
 
 ---
 
