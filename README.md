@@ -4,13 +4,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante do **2º semestre de Sistemas de Informação**, com grande interesse em tecnologia, automação e melhoria de processos.
+Estudante do **2º semestre de Sistemas de Informação**, interessado em usar tecnologia para automatizar processos, melhorar rotinas e resolver problemas reais.
 
-🏢 Atualmente trabalho na **RCA Multiserviços**, onde tenho contato direto com processos do ambiente corporativo e busco aplicar tecnologia para tornar atividades mais simples, eficientes e organizadas.
-
-💡 Gosto de observar problemas do dia a dia, entender como os processos funcionam e buscar maneiras de melhorá-los utilizando tecnologia e automação.
-
-🚀 Estou construindo minha base em programação e desenvolvendo meus conhecimentos enquanto aplico o que aprendo em situações e projetos reais.
+🏢 **Atuação:** RCA Multiserviços  
+🎓 **Formação:** Sistemas de Informação — 2º semestre  
+📊 **Experiência prática:** Excel  
+💻 **Estudando:** C / C++  
+🎯 **Foco:** Tecnologia, automação e melhoria de processos
 
 ---
 
@@ -18,16 +18,20 @@ Sou estudante do **2º semestre de Sistemas de Informação**, com grande intere
 
 <table>
   <tr>
-    <td align="center" width="160">
+    <td align="center" width="220">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="0"/>
       <b>📊 Excel</b><br>
       <sub>Experiência prática</sub>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="220">
       <b>💻 Portugol</b><br>
       <sub>Fundamentos de lógica</sub>
     </td>
   </tr>
 </table>
+
+Uso **Excel** no ambiente profissional para organização, controle e melhoria de processos.  
+Também tive contato com **Portugol**, onde desenvolvi fundamentos de lógica de programação.
 
 Tenho experiência prática com **Excel** no ambiente profissional e utilizei **Portugol** durante meus estudos para desenvolver fundamentos de lógica de programação.
 
@@ -35,22 +39,11 @@ Tenho experiência prática com **Excel** no ambiente profissional e utilizei **
 
 ## 📚 Atualmente estudando
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <b>C</b><br>
-      <sub>Em aprendizado</sub>
-    </td>
-    <td align="center" width="140">
-      <b>C++</b><br>
-      <sub>Em aprendizado</sub>
-    </td>
-    <td align="center" width="180">
-      <b>🌎 Inglês</b><br>
-      <sub>Em desenvolvimento</sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/C-Em%20aprendizado-2b2b2b?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-Em%20aprendizado-2b2b2b?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Ingl%C3%AAs-Em%20desenvolvimento-2b2b2b?style=for-the-badge">
+</p>
 
 🎓 Cursando o **2º semestre de Sistemas de Informação**.
 
@@ -58,29 +51,32 @@ Tenho experiência prática com **Excel** no ambiente profissional e utilizei **
 
 ## 💡 Áreas de interesse
 
-- Automação de processos
-- Desenvolvimento de sistemas
-- Tecnologia aplicada a problemas reais
-- Melhoria e otimização de processos
-- Inteligência Artificial
+`Automação de processos` • `Desenvolvimento de sistemas` • `IA` • `Melhoria de processos` • `Tecnologia aplicada a problemas reais`
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em destaque
 
-Estou organizando e documentando meus projetos para publicá-los aqui.
-
-Em breve, esta seção terá projetos acadêmicos e projetos desenvolvidos para solucionar problemas reais.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔴 Projetos profissionais</h3>
+      <p>Soluções voltadas à automação e melhoria de processos do ambiente corporativo.</p>
+      <sub>Em organização e documentação.</sub>
+    </td>
+    <td width="50%">
+      <h3>🎓 Projetos acadêmicos</h3>
+      <p>Projetos desenvolvidos durante minha formação em Sistemas de Informação.</p>
+      <sub>Em breve.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 Minha jornada
 
-Este GitHub também será um registro da minha evolução na área de tecnologia.
-
-Conforme avanço nos estudos e desenvolvo novos conhecimentos, projetos e experiências, este perfil continuará evoluindo comigo.
-
----
+Este GitHub registra minha evolução na área de tecnologia, desde os primeiros fundamentos até projetos cada vez mais completos.
 
 <p align="center">
   <i>Aprendendo, construindo e evoluindo um projeto de cada vez.</i>
