@@ -1,9 +1,8 @@
-<h1 align="center">Olá, eu sou o Kalyel! 👋</h1>
-
 <p align="center">
-  <b>Estudante de Sistemas de Informação</b><br>
-  Tecnologia • Automação • Melhoria de Processos
+  <img src="./assets/banner.svg" width="100%" alt="Banner de Kalyel Barbosa">
 </p>
+
+<br>
 
 ---
 
