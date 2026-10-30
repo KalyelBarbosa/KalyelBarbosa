@@ -64,7 +64,6 @@ Tive contato com **Visualg / Portugol** durante meus estudos, desenvolvendo fund
       <p>Soluções desenvolvidas a partir de necessidades reais de automação e melhoria de processos.</p>
       <sub>🚧 Em organização e documentação</sub>
     </td>
-
     <td width="50%" valign="top">
       <h3>🎓 Projetos acadêmicos</h3>
       <p>Projetos e atividades desenvolvidos durante minha formação em Sistemas de Informação.</p>
